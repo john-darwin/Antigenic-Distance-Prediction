@@ -1,13 +1,7 @@
 # Antigenic-Distance-Prediction
 aane
 AANE
-
-```python aane/main.py --input adj.npz --output aane.embeddings --iter 10```
-
-Arguments :
-* input : network file path (.npz file)
-* output : embedding output path
-* iter : number of iterations (optional)
+This method requires network adjacency matrix and node attribute information represented by sparse matrix format
 
 preprocess
 This folder provides some of the necessary results for converting file input to network input

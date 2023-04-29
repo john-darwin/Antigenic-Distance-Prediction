@@ -1,9 +1,7 @@
 # Antigenic-Distance-Prediction
-aane
-AANE
 This method requires network adjacency matrix and node attribute information represented by sparse matrix format
 
-preprocess
+## preprocess
 This folder provides some of the necessary results for converting file input to network input
 
 Antigenic Distance.xlsx
